@@ -5,4 +5,4 @@ For my formation I needed to make a site about Tim Berners-Lee from this screens
 
 ![Screenshot](https://github.com/becodeorg/CRL-Keller-2.24/raw/master/LearningPath/1.TheField/5.HTML-CSS/images/goal-css.png)
 
-To put the li in column and inline them right after was a problem for me, but now I understand better the display: grid.
+To put the li in column and inline them right after was a problem for me, but now I understand better the display: grid. (the contact link and images are in an ul)
